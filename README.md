@@ -1,6 +1,8 @@
-# Business Operations Hub Privacy Site
+# BizCentry Privacy Site
 
-Static public pages for Business Operations Hub.
+Static public pages for BizCentry.
+
+Tagline: Business Management
 
 - `privacy.html` — privacy policy in Hebrew and English
 - `account-deletion.html` — account/data deletion instructions
